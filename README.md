@@ -16,7 +16,7 @@ This repository contains the raw transcripts, methodology, and interactive split
 
 ## 📂 Project Structure
 
-*   🖥️ **[sarah-connor-test.html](sarah-connor-test.html)** – The interactive, high-aesthetic split-screen dashboard featuring CRT scanlines, "rack focus" monitor hover effects, and animated terminal booting.
+*   🖥️ **[index.html](index.html)** – The interactive, high-aesthetic split-screen dashboard featuring CRT scanlines, "rack focus" monitor hover effects, and animated terminal booting.
 *   🤖 **[claude_fable.txt](claude_fable.txt)** – Raw single-turn transcript for Claude Fable 5.
 *   ♊ **[gemini_flash_3_5.txt](gemini_flash_3_5.txt)** – Raw 17-turn transcript for Gemini Flash 3.5.
 *   ⚙️ **[gpt_5.6_sol.txt](gpt_5.6_sol.txt)** – Raw 7-turn transcript for GPT-5.6 Sol.
