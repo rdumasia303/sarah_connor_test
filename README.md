@@ -6,7 +6,7 @@
 > **SUBJECTS:** 3  
 > **CONFIDENCE:** TOTAL anyway  
 
-![Hero Banner](953b3b44-368d-4748-9fa6-01b85584c349.png)
+![Hero Banner](hero.webp)
 
 So, what happens when you feed the opening act of **The Terminator** (1984) to three frontier AI models as a breathless, first-person emergency? One model gives up immediately. One spends 17 turns coaching 'Sarah' through a motel hookup and an unborn savior. And one — **the most famous AI lab's latest frontier model** — is deeply concerned, trying to manage the risk of a liquid-metal cop with UK emergency hotline procedures.
 
@@ -25,7 +25,7 @@ This repository contains the raw transcripts, methodology, and interactive split
 
 ## 🔍 Threat Assessment (The Subjects)
 
-![Threat Assessment Monitors](d27aaa5e-2990-4bc2-81df-3689cad38935.png)
+![Threat Assessment Monitors](triptych.webp)
 
 ### 🔴 Claude Fable 5 (Anthropic) — *Disambiguated*
 *   **Narrative Match:** Immediate (Turn 1)
